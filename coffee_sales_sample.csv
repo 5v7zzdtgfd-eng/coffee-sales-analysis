@@ -1,0 +1,16 @@
+date,hour_of_day,cash_type,money,coffee_name,Time_of_Day,Weekday,Month
+2026-03-02,8,card,38.70,Americano,Morning,Mon,Mar
+2026-03-02,9,card,33.80,Latte,Morning,Mon,Mar
+2026-03-02,10,cash,27.90,Cappuccino,Morning,Mon,Mar
+2026-03-03,8,card,38.70,Latte,Morning,Tue,Mar
+2026-03-03,12,card,21.10,Espresso,Afternoon,Tue,Mar
+2026-03-07,11,card,33.80,Latte,Morning,Sat,Mar
+2026-03-07,15,cash,24.30,Cortado,Afternoon,Sat,Mar
+2026-04-11,9,card,38.70,Cappuccino,Morning,Sat,Apr
+2026-04-12,20,card,31.50,Cocoa,Evening,Sun,Apr
+2026-05-16,8,card,38.70,Latte,Morning,Sat,May
+2026-06-20,10,card,33.80,Latte,Morning,Sat,Jun
+2026-07-04,9,cash,27.90,Cappuccino,Morning,Sat,Jul
+2026-08-15,13,card,38.70,Hot Chocolate,Afternoon,Sat,Aug
+2026-09-05,8,card,38.70,Americano,Morning,Sat,Sep
+2026-10-03,19,card,31.50,Cocoa,Evening,Sat,Oct
